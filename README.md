@@ -8,4 +8,4 @@ _I am a student, learning the Swift programming language._
  - subskill
 3. Skill 3
 
-![image](img/Start.jpg)
+![image](img/start.jpg)
